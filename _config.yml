@@ -1,0 +1,14 @@
+layout_spectrum: 0.8494624
+color:
+  saturation: 0.9050179
+  lightness: 0.3620072
+  brandStrength: 0.9390681
+  brandColors:
+    - '#FFFEFF'
+    - '#1C1815'
+    - '#8B8B8B'
+    - '#64635F'
+    - '#C1C5C8'
+  rhythmicContrast: 0.6899642
+typography_spectrum: 0.1182796
+name: BimOps
